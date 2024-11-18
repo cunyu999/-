@@ -1,4 +1,4 @@
-使用方法(cpp文件在文件夹src中py文件在scripts中）
+使用方法(cpp文件在文件夹src中，py文件在scripts中）
 
 先创建工作环境
 
