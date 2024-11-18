@@ -8,7 +8,7 @@ rosbag play jiantu2.bag
 
 要使用提供的subscriber node subscribe /driver/encoder 话题，请运行：
 
-rosrun my_rosbag_example encoder_subscriber
+rosrun my_rosbag_example encoder_subscriber.py
 
 要使用提供的subscriber node subscribe /driver/eul 话题，请运行：
 
