@@ -1,5 +1,7 @@
 使用方法
 
+先创建工作环境
+
 要播放文件，请使用以下命令：
 
 rosbag play jiantu2.bag
